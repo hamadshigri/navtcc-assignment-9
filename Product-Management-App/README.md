@@ -1,16 +1,9 @@
-# React + Vite
+# Product-Management-App -- REACT.JS
+- Built a Product Management App using ReactJS
+- CRUD (Create, Read, Update, and Delete) operations
+- Fetching dummy API's
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <img width="1311" height="869" alt="image" src="https://github.com/user-attachments/assets/d62008c1-05b7-448a-b3a2-5d622e9e7350" />
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  # Deployed on Vercel
+  https://navtcc-assignment-9.vercel.app/
